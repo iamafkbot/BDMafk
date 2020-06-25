@@ -4,3 +4,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/or
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/list.txt", imagePath .."list.txt")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/cancel.png", imagePath .."cancel.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/menu_bars.png", imagePath .."menu_bars.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_info.png", imagePath .."my_info.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/guild_checkin1.png", imagePath .."guild_checkin1.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/guild_checkin2.png", imagePath .."guild_checkin2.png")
