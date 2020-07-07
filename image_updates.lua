@@ -7,3 +7,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/in
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/inventory1.png", imagePath .."inventory1.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/complete_all_zero.png", imagePath .."complete_all_zero.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/mega_growth.png", imagePath .."mega_growth.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/menu_bars.png", imagePath .."menu_bars.png")
