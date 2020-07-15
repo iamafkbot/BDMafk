@@ -10,3 +10,18 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/me
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/menu_bars.png", imagePath .."menu_bars.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/confirm2.png", imagePath .."confirm2.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ancient.png", imagePath .."ancient.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_menu.png", imagePath .."boss_rush_menu.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_prepare.png", imagePath .."boss_rush_prepare.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_auto_repeat_check.png", imagePath .."boss_rush_auto_repeat_check.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_min.png", imagePath .."boss_rush_min.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_max.png", imagePath .."boss_rush_max.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_auto_restart_x.png", imagePath .."boss_rush_auto_restart_x.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_success_confirm.png", imagePath .."boss_rush_success_confirm.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_go.png", imagePath .."boss_rush_go.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_died.png", imagePath .."boss_rush_died.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_check.png", imagePath .."boss_check.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/world_boss_status.png", imagePath .."world_boss_status.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/war_vote.png", imagePath .."war_vote.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/use_all_skillbooks.png", imagePath .."use_all_skillbooks.png")
+
+
