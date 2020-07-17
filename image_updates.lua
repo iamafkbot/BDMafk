@@ -23,5 +23,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/bo
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/world_boss_status.png", imagePath .."world_boss_status.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/war_vote.png", imagePath .."war_vote.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/use_all_skillbooks.png", imagePath .."use_all_skillbooks.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/auto_fusion.png", imagePath .."auto_fusion.png")
 
 
