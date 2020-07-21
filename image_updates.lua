@@ -25,5 +25,7 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/wa
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/use_all_skillbooks.png", imagePath .."use_all_skillbooks.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/auto_fusion.png", imagePath .."auto_fusion.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_shield.png", imagePath .."boss_rush_shield.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/camp_enter.png", imagePath .."camp_enter.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/camp_word.png", imagePath .."camp_word.png")
 
 
