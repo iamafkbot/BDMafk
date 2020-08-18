@@ -34,5 +34,7 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/al
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/black_spirit_mode.png", imagePath .."black_spirit_mode.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/bsm.png", imagePath .."bsm.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/killed.png", imagePath .."killed.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/inv.png", imagePath .."inv.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/open_chests.png", imagePath .."open_chests.png")
 
 
