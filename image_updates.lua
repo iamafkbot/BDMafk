@@ -27,5 +27,12 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/au
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_shield.png", imagePath .."boss_rush_shield.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/camp_enter.png", imagePath .."camp_enter.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/camp_word.png", imagePath .."camp_word.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/acquired.png", imagePath .."acquired.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/stone_of_honor_name.png", imagePath .."stone_of_honor_name.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/stone_honor.png", imagePath .."stone_honor.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/alert_bsm.png", imagePath .."alert_bsm.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/black_spirit_mode.png", imagePath .."black_spirit_mode.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/bsm.png", imagePath .."bsm.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/killed.png", imagePath .."killed.png")
 
 
