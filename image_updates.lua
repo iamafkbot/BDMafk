@@ -38,5 +38,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/in
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/open_chests.png", imagePath .."open_chests.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/pet_train.png", imagePath .."pet_train.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/pet_train_lv.png", imagePath .."pet_train_lv.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/buff.png", imagePath .."buff.png")
 
 
