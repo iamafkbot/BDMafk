@@ -40,5 +40,8 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/pe
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/pet_train_lv.png", imagePath .."pet_train_lv.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/buff.png", imagePath .."buff.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/feed.png", imagePath .."feed.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/shop_chicken_soup_purchased.png", imagePath .."shop_chicken_soup_purchased.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/rank_click.png", imagePath .."rank_click.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/rank.png", imagePath .."rank.png")
 
 
