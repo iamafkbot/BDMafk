@@ -60,3 +60,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ha
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/hadum_craft.png", imagePath .."hadum_craft.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/hadum_auto_craft.png", imagePath .."hadum_auto_craft.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/hadum_holy.png", imagePath .."hadum_holy.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_check.png", imagePath .."boss_check.png")
