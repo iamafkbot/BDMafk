@@ -63,3 +63,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ha
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_check.png", imagePath .."boss_check.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/social_yellow.png", imagePath .."social_yellow.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tamer.png", imagePath .."tamer.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_start_battle_start.png", imagePath .."boss_start_battle_start.png")
