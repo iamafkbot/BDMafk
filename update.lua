@@ -1,1 +1,1 @@
-return "no"
+isUpdateRequired = "no"
