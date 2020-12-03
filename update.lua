@@ -1,1 +1,1 @@
-isUpdateRequired = "no"
+isUpdateRequired = "yes"
