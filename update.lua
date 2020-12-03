@@ -1,1 +1,1 @@
-httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/update_required.lua", localPath .."update_required.lua")
+return "yes"
