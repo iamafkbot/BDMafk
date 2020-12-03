@@ -1,1 +1,1 @@
-isUpdateRequired = "yes"
+return "yes"
