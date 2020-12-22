@@ -6,3 +6,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ou
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/outlaw_button.png", imagePath .."outlaw_button.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/outlaw_clock.png", imagePath .."outlaw_clock.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/outlaw.png", imagePath .."outlaw.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/outlaw_mode.png", imagePath .."outlaw_mode.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/deactivate.png", imagePath .."deactivate.png")
