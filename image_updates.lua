@@ -27,4 +27,11 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/bl
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/oasis.png", imagePath .."oasis.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/max.png", imagePath .."max.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/plus_purchase_item.png", imagePath .."plus_purchase_item.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_send.png", imagePath .."tower_send.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_confirm_check.png", imagePath .."tower_confirm_check.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_black_pearl.png", imagePath .."tower_black_pearl.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_confirm.png", imagePath .."tower_confirm.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_start.png", imagePath .."tower_start.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_complete.png", imagePath .."tower_complete.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower.png", imagePath .."tower.png")
 
