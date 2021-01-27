@@ -54,4 +54,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/bo
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/difficulty99.png", imagePath .."difficulty99.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_hadum.png", imagePath .."boss_rush_hadum.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_elion.png", imagePath .."boss_rush_elion.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_knowledge_book.png", imagePath .."boss_knowledge_book.png")
 
