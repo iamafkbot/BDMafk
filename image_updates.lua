@@ -55,4 +55,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/di
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_hadum.png", imagePath .."boss_rush_hadum.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_elion.png", imagePath .."boss_rush_elion.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_knowledge_book.png", imagePath .."boss_knowledge_book.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/loot_list.png", imagePath .."loot_list.png")
 
