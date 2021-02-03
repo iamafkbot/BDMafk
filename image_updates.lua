@@ -65,4 +65,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/gu
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/great_desert_guild_call.png", imagePath .."great_desert_guild_call.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/shield.png", imagePath .."shield.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/alert_guild.png", imagePath .."alert_guild.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/offer.png", imagePath .."offer.png")
 
