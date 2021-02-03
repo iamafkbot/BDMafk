@@ -56,4 +56,13 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/bo
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_elion.png", imagePath .."boss_rush_elion.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_knowledge_book.png", imagePath .."boss_knowledge_book.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/loot_list.png", imagePath .."loot_list.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/xlarge_s.png", imagePath .."xlarge_s.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/visit.png", imagePath .."visit.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/shield1.png", imagePath .."shield1.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/laytenn_auto_path.png", imagePath .."laytenn_auto_path.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/laytenn_notify.png", imagePath .."laytenn_notify.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/guild_mini_shield.png", imagePath .."guild_mini_shield.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/great_desert_guild_call.png", imagePath .."great_desert_guild_call.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/shield.png", imagePath .."shield.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/alert_guild.png", imagePath .."alert_guild.png")
 
