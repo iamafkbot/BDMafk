@@ -66,4 +66,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/gr
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/shield.png", imagePath .."shield.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/alert_guild.png", imagePath .."alert_guild.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/offer.png", imagePath .."offer.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/loot.png", imagePath .."loot.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/hadum_use.png", imagePath .."hadum_use.png")
 
