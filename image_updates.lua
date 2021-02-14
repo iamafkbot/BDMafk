@@ -84,4 +84,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ru
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/rune.png", imagePath .."rune.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/open_chests_agree_all.png", imagePath .."open_chests_agree_all.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/compass.png", imagePath .."compass.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/continue.png", imagePath .."continue.png")
 
