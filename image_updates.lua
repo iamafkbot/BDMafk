@@ -95,4 +95,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ap
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/apple_arrow.png", imagePath .."apple_arrow.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/apple_id.png", imagePath .."apple_id.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/free_talish.png", imagePath .."free_talish.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/brs_small.png", imagePath .."brs_small.png")
 
