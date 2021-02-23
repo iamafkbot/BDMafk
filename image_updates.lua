@@ -97,4 +97,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ap
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/free_talish.png", imagePath .."free_talish.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/brs_small.png", imagePath .."brs_small.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tent2.png", imagePath .."tent2.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ancient_guardian.png", imagePath .."ancient_guardian.png")
 
