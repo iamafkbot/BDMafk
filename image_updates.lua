@@ -12,3 +12,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/sh
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/shop_chicken_soup_chest.png", imagePath .."shop_chicken_soup_chest.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/odds_and_ends.png", imagePath .."odds_and_ends.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/pearl_black_pearl.png", imagePath .."pearl_black_pearl.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/go_to_lobby.png", imagePath .."go_to_lobby.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/characters.png", imagePath .."characters.png")
