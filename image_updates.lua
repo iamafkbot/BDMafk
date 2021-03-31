@@ -14,3 +14,7 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/od
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/pearl_black_pearl.png", imagePath .."pearl_black_pearl.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/go_to_lobby.png", imagePath .."go_to_lobby.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/characters.png", imagePath .."characters.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_hadum.png", imagePath .."tower_hadum.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_elion.png", imagePath .."tower_elion.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_mini.png", imagePath .."tower_mini.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/dispatch.png", imagePath .."dispatch.png")
