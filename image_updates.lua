@@ -27,3 +27,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ka
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/katan_soldier_big.png", imagePath .."katan_soldier_big.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/katan_soldier.png", imagePath .."katan_soldier.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/kutum_blessing.png", imagePath .."kutum_blessing.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/edana.png", imagePath .."edana.png")
