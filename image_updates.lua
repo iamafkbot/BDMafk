@@ -52,3 +52,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/co
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/hadum_nm.png", imagePath .."hadum_nm.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/nm_exit.png", imagePath .."nm_exit.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/edana1.png", imagePath .."edana1.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/exp.png", imagePath .."exp.png")
