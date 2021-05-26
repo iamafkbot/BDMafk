@@ -56,3 +56,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ex
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/stone_crit_name.png", imagePath .."stone_crit_name.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/outlaw1.png", imagePath .."outlaw1.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/great_desert1.png", imagePath .."great_desert1.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/camp_content_list.png", imagePath .."camp_content_list.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/outlaw_small.png", imagePath .."outlaw_small.png")
