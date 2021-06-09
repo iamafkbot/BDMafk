@@ -60,3 +60,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ca
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/outlaw_small.png", imagePath .."outlaw_small.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tukar_defeated.png", imagePath .."tukar_defeated.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/hystria.png", imagePath .."hystria.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/killed.png", imagePath .."killed.png")
