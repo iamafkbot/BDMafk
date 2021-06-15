@@ -61,3 +61,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/ou
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tukar_defeated.png", imagePath .."tukar_defeated.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/hystria.png", imagePath .."hystria.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/killed.png", imagePath .."killed.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/alert_escort.png", imagePath .."alert_escort.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/worker_stamina.png", imagePath .."worker_stamina.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/globe.png", imagePath .."globe.png")
