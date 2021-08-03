@@ -94,3 +94,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/br
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/br_giath.png", imagePath .."br_giath.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/br_red_nose.png", imagePath .."br_red_nose.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/zerk.png", imagePath .."zerk.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/go.png", imagePath .."go.png")
