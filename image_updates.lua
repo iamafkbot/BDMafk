@@ -181,3 +181,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/quests.png", imagePath .."quests.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/quest_list_complete.png", imagePath .."quest_list_complete.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/quest_list.png", imagePath .."quest_list.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/checkmark.png", imagePath .."checkmark.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_map_back.png", imagePath .."my_map_back.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_tarif_trade.png", imagePath .."my_tarif_trade.png")
