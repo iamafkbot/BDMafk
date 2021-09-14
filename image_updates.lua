@@ -193,3 +193,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/kh
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_enter_town4.png", imagePath .."my_enter_town4.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/br_gavelle.png", imagePath .."br_gavelle.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_enter_town5.png", imagePath .."my_enter_town5.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_send.png", imagePath .."tower_send.png")
