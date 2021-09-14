@@ -190,3 +190,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_trade_shop_icons1.png", imagePath .."my_trade_shop_icons1.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/leave_port.png", imagePath .."leave_port.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/khan.png", imagePath .."khan.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_enter_town4.png", imagePath .."my_enter_town4.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/br_gavelle.png", imagePath .."br_gavelle.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_enter_town5.png", imagePath .."my_enter_town5.png")
