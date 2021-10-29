@@ -198,3 +198,4 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/to
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/dailyreward.png", imagePath .."dailyreward.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/boss_rush_normal.png", imagePath .."boss_rush_normal.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/google_play_ok.png", imagePath .."google_play_ok.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/exit.png", imagePath .."exit.png")
