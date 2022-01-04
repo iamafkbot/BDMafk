@@ -206,3 +206,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/co
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/guild_join_do_not_display.png", imagePath .."guild_join_do_not_display.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/guild_join.png", imagePath .."guild_join.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/guild_join_exit.png", imagePath .."guild_join_exit.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/guild_quest_2.png", imagePath .."guild_quest_2.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/gq_mine.png", imagePath .."gq_mine.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/gq_forage.png", imagePath .."gq_forage.png")
