@@ -209,3 +209,6 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/gu
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/guild_quest_2.png", imagePath .."guild_quest_2.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/gq_mine.png", imagePath .."gq_mine.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/gq_forage.png", imagePath .."gq_forage.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/magram.png", imagePath .."magram.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/dark_energy_crystal.png", imagePath .."dark_energy_crystal.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/where_to_obtain.png", imagePath .."where_to_obtain.png")
