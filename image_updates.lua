@@ -225,3 +225,5 @@ httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/n_
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/br_narc.png", imagePath .."br_narc.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/my_enter_town6.png", imagePath .."my_enter_town6.png")
 httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/tower_chaos.png", imagePath .."tower_chaos.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/download.png", imagePath .."download.png")
+httpDownload("https://raw.githubusercontent.com/iamafkbot/BDMafk/master/image/download_confirm.png", imagePath .."download_confirm.png")
